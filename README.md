@@ -21,3 +21,11 @@ Install the dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+## 📚 Citation
+
+If you find **AutoTextGridGenerator** useful, please cite this paper:
+
+```
+
+```
