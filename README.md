@@ -28,6 +28,23 @@ pip install -r requirements.txt
 
 If you find **AutoTextGridGenerator** useful, please cite this paper:
 
-```
+- BibTex
 
+```
+@misc{li2025textgrid,
+  author       = {Li, Ying and Pham, Duc-Son and Ward, Roslyn and Hennessey, Neville and Tan, Tele},
+  title        = {Automating TextGrid Generation for Speech-Language Pathologists: Technical Report},
+  year         = {2025},
+  month        = {July},
+  note         = {Preprint},
+  howpublished = {ResearchGate},
+  doi          = {10.13140/RG.2.2.18079.68007},
+  url          = {https://doi.org/10.13140/RG.2.2.18079.68007}
+}
+```
+- APA
+
+```
+Li, Y.; Pham, D.-S.; Ward, R.; Hennessey, N.; Tan, T.
+Automating TextGrid Generation for Speech-Language Pathologists: Technical Report; Preprint; ResearchGate: 2025. https://doi.org/10.13140/RG.2.2.18079.68007.
 ```
